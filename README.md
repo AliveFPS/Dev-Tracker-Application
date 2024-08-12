@@ -1,4 +1,4 @@
-# dev-tracker-application
+# Dev Tracker - Desktop Application
 This project will cover the parts of the application for the general project of dev tracker. 
 
 ## Components for Application
